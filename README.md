@@ -1,5 +1,7 @@
 # Indie.js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mko/Indie.js.svg)](https://greenkeeper.io/)
+
 [Indie.js](http://indiejs.com) is an upcoming Node.js implementation of [IndieWeb](http://indiewebcamp.com) principles.
 
 Exact features TBD, but the expectation is that it will reach a very high [IndieMark](http://indiewebcamp.com/IndieMark) out of the box.
